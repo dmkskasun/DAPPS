@@ -10,7 +10,7 @@ The Managemet API support methods for management of geth node.
 02.Web3 APIS. 
 The Web3 APIs support methods for development of Dapps.
 
-![Image](Images/Ethereum and web 3 API.PNG)
+![Image](Images/Ethereum_web_3_API.PNG)
 
 #### APIs in detail. 
 
