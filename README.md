@@ -5,11 +5,12 @@
 #### Two type of APIs
 01.Management APIs
 The Managemet API support methods for management of geth node. 
-![Image](Images/ethereum_solidity.jpg)
+
 
 02.Web3 APIS. 
 The Web3 APIs support methods for development of Dapps.
-![Image](Images/ethereum_solidity.jpg)
+
+![Image](Images/Ethereum and web 3 API.PNG)
 
 #### APIs in detail. 
 
