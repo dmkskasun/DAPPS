@@ -87,6 +87,8 @@ https://nodejs.org/en/
 
 ![Image](Images/TRUFFLE_VERSION.PNG)
 
+For next part continue with https://github.com/dmkskasun/WEB_INTERFACE_AND_TESTING-FRONT_END-.git
+
 
 
 
