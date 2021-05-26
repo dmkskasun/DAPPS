@@ -63,6 +63,12 @@ Web3 is a JavaScript library that's specifically designed for use with web clien
 
 #### JAVA
 
+If you dont have java you can install java in official Java download page, download, and run the installer from there.
+https://www.java.com/en/download/ 
+
+
+ 
+
 ![Image](Images/JAVA_VERSION.PNG)
 
 #### Node.js and NPM
