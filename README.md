@@ -50,7 +50,7 @@ gives you access to several non-standard RPC methods to inspect the contents of 
 
 Web3 is a JavaScript library that's specifically designed for use with web client or Ethereum Dapps. It's a portal through which all the underlying operations of the Ethereum node on the blockchain server can be invoked. For example, a Smart Contract deployment and Smart Contract function invocation.
 
-#END TO END DAPP.
+# END TO END DAPP.
 
 ### Four Steps of Design Process:
 
@@ -63,19 +63,19 @@ Web3 is a JavaScript library that's specifically designed for use with web clien
 
 #### JAVA
 
-![Image](Images/ethereum_solidity.jpg)
+![Image](Images/JAVA_VERSION.PNG)
 
 #### Node.js and NPM
 
-![Image](Images/ethereum_solidity.jpg)
+![Image](Images/NODE_VERSION.PNG)
 
 #### Truffle install
 
-![Image](Images/ethereum_solidity.jpg)
+![Image](Images/INSTALL_TRUFFLE.PNG)
 
 #### Chk Truffle version
 
-![Image](Images/ethereum_solidity.jpg)
+![Image](Images/TRUFFLE_VERSION.jpg)
 
 
 
