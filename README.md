@@ -61,6 +61,8 @@ Web3 is a JavaScript library that's specifically designed for use with web clien
 
 ## To Install Truffle, You NEED!
 
+Resource: https://developers.rsk.co/tutorials/ethereum-devs/setup-truffle-oz/
+
 #### JAVA
 
 If you dont have java you can install java in official Java download page, download, and run the installer from there.
