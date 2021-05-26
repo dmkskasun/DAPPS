@@ -75,7 +75,7 @@ Web3 is a JavaScript library that's specifically designed for use with web clien
 
 #### Chk Truffle version
 
-![Image](Images/TRUFFLE_VERSION.jpg)
+![Image](Images/TRUFFLE_VERSION.PNG)
 
 
 
