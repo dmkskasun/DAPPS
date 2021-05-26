@@ -1,4 +1,4 @@
-# DAPPS
+# DAPPS & HOW TO INSTALL TRUFFLE
 ![Image](Images/ethereum-1.gif)
 -----
 ### Ethereum APIs 
