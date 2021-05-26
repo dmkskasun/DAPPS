@@ -75,6 +75,10 @@ https://www.java.com/en/download/
 
 ![Image](Images/NODE_VERSION.PNG)
 
+Also, you can install Node.js in. 
+
+https://nodejs.org/en/
+
 ## Truffle install
 
 ![Image](Images/INSTALL_TRUFFLE.PNG)
