@@ -69,7 +69,7 @@ Web3 is a JavaScript library that's specifically designed for use with web clien
 
 ![Image](Images/NODE_VERSION.PNG)
 
-#### Truffle install
+## Truffle install
 
 ![Image](Images/INSTALL_TRUFFLE.PNG)
 
